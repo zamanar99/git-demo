@@ -1,0 +1,7 @@
+In this exercise, you create a resource and configure a resource lock.
+Storage accounts are one of the easiest types of resource locks to quickly see the impact,
+so you use a storage account for this exercise.
+
+This exercise is a Bring your own subscription exercise, meaning you need to provide your
+ own Azure subscription to complete the exercise. Don’t worry though, the entire exercise
+ can be completed for free with the 12 month free services when you sign up for an Azure account.
